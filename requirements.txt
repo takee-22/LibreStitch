@@ -1,0 +1,3 @@
+PyQt6[multimedia]>=6.6.0
+# Uncomment when ready to package exe:
+# pyinstaller>=5.13

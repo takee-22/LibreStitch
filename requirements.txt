@@ -1,3 +1,15 @@
-PyQt6[multimedia]>=6.6.0
-# Uncomment when ready to package exe:
-# pyinstaller>=5.13
+PyQt6>=6.6.0
+
+ffmpeg-python>=0.2.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+
+numpy>=1.26.0
+opencv-python>=4.9.0
+
+pydantic>=2.7.0
+
+tqdm>=4.66.0
+loguru>=0.7.2
+
+pyinstaller>=5.13

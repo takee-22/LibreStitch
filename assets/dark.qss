@@ -1,0 +1,6 @@
+QMainWindow { background: #1e1e1e; color: #ddd; }
+QGraphicsView { background: #2d2d2d; border: none; }
+QDockWidget { background: #252526; color: #ccc; }
+QPushButton { background: #3c3c3c; color: white; border: 1px solid #555; padding: 4px; }
+QPushButton:hover { background: #505050; }
+QLineEdit { background: #3c3c3c; color: white; border: 1px solid #555; }
